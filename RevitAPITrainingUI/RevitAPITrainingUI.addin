@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITrainingUI.dll"</Assembly>
+		<AddInId>CF048C4C-355B-4E96-A1E0-776BC6F8CE83</AddInId>
+		<FullClassName>RevitAPITrainingUI.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Первое WPF приложение для Revit</Text>
+	</AddIn>
+</RevitAddIns>
